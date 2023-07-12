@@ -1,0 +1,1 @@
+name 	type 	id 	prop1 	prop1_val 	prop2 	prop2_val 	element 	elem_val 	contribute 	sellprice 	equippos 	level 	BuyingPrice 	SellingPrice 	ItemDescription 	unk1 	unk2 	unk3 	unk4 	unk5 	unk6 	unk9 	unk10 	unk11 	unk12 	unk13 	unk14 	unk15 	unk16

@@ -1,0 +1,1 @@
+name 	type 	id 	image1 	image2 	color1 	color2 	color3 	color4 	notPet 	unk5 	unk6 	lvl 	hpmax 	spmax 	hpx 	spx 	int 	atk 	def 	agi 	doanhtrai 	exp_bonus 	element 	skill1 	skill2 	skill3 	drop 	drop 	drop 	drop 	drop 	drop 	unk1 	skill4 	reborn 	unk2 	unk3

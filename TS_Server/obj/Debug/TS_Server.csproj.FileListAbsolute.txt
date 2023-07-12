@@ -1,0 +1,11 @@
+C:\Users\555\Desktop\TS_Server_rev97\TS_Server\bin\Debug\TS_Server.exe.config
+C:\Users\deary\Downloads\TS_Server_rev97\TS_Server\obj\Debug\TS_Server.csproj.AssemblyReference.cache
+C:\Users\deary\Downloads\TS_Server_rev97\TS_Server\obj\Debug\TS_Server.csproj.CoreCompileInputs.cache
+C:\Users\deary\Downloads\TS_Server_rev97\TS_Server\bin\Debug\TS_Server.exe.config
+C:\Users\deary\Downloads\TS_Server_rev97\TS_Server\bin\Debug\TS_Server.exe
+C:\Users\deary\Downloads\TS_Server_rev97\TS_Server\bin\Debug\TS_Server.pdb
+C:\Users\deary\Downloads\TS_Server_rev97\TS_Server\bin\Debug\MySQL.Data.dll
+C:\Users\deary\Downloads\TS_Server_rev97\TS_Server\bin\Debug\MySql.Data.Entity.dll
+C:\Users\deary\Downloads\TS_Server_rev97\TS_Server\obj\Debug\TS_Server.csproj.CopyComplete
+C:\Users\deary\Downloads\TS_Server_rev97\TS_Server\obj\Debug\TS_Server.exe
+C:\Users\deary\Downloads\TS_Server_rev97\TS_Server\obj\Debug\TS_Server.pdb
